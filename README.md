@@ -22,6 +22,7 @@ This protocol enables the creation of powerful third party tools, enlisted here 
 ## Charts, graphs, and stats
  - [Atlas](https://bsky.jazco.dev/) - Aggregate stats for all posts
  - [Bluesky Stats](https://blue.mackuba.eu/stats/) - Bluesky activity stats
+ - [Bluesky Trends and Insights](https://blue.facts.dev) - Top lists of most followed users, trending & fast growing user accounts
  - [Blueview](https://blueview.app/) - Insights and analytics plus support for creating posts
  - [bsky charts](https://bskycharts.edavis.dev/edavis.dev/bskycharts.edavis.dev/index.html) - Charts of Bluesky network activity
  - [Handle Directory](https://blue.mackuba.eu/directory/) - Bluesky handles directory (TLDs, PDSes, Fediverse)
